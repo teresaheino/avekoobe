@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://daipaebeij.classicblunders.com/sitemap.xml
